@@ -27,11 +27,20 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
+        <!--service-util-->
         <dependency>
             <groupId>com.atguigu.gmall</groupId>
             <artifactId>gmall-service-util</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+
+        <!--web-util-->
+        <dependency>
+            <groupId>com.atguigu.gmall</groupId>
+            <artifactId>gmall-web-util</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
 
     </dependencies>
 
